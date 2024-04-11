@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Eri_Facials
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Smile
+    icon: {fileID: 2800000, guid: 84018d1bbe30fc545948ca7e233198ad, type: 3}
+    type: 102
+    parameter:
+      name: Facial_Expressions
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Surprise
+    icon: {fileID: 2800000, guid: df3ed1a0009afbd4b9a7eea069fb69c7, type: 3}
+    type: 102
+    parameter:
+      name: Facial_Expressions
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: anger
+    icon: {fileID: 2800000, guid: cf05ae483e06d3546ba6b7b9a78bd002, type: 3}
+    type: 102
+    parameter:
+      name: Facial_Expressions
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Wink
+    icon: {fileID: 2800000, guid: 05f87ae5a9d888141bee49af3dce255a, type: 3}
+    type: 102
+    parameter:
+      name: Facial_Expressions
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shame
+    icon: {fileID: 2800000, guid: fa2d80fb459c4c34caf9940091e6d823, type: 3}
+    type: 102
+    parameter:
+      name: Facial_Expressions
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Punsuka
+    icon: {fileID: 2800000, guid: 8eae123137216ae45a324fc98ad237cf, type: 3}
+    type: 102
+    parameter:
+      name: Facial_Expressions
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sad
+    icon: {fileID: 2800000, guid: 4cb48b7086b886c4e9f7971fd335bdbe, type: 3}
+    type: 102
+    parameter:
+      name: Facial_Expressions
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

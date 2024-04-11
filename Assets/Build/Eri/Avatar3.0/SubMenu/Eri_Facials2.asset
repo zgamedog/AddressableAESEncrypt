@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Eri_Facials2
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Kirakira
+    icon: {fileID: 2800000, guid: 1f478a44e203bb34bb537e3688dca178, type: 3}
+    type: 102
+    parameter:
+      name: Facial_Expressions2
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Heart
+    icon: {fileID: 2800000, guid: b51a881d563789e46b3f777a10a7863e, type: 3}
+    type: 102
+    parameter:
+      name: Facial_Expressions2
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Guruguru
+    icon: {fileID: 2800000, guid: d8d0f4dba0a898b4d87896063a2bb43d, type: 3}
+    type: 102
+    parameter:
+      name: Facial_Expressions2
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Kurome
+    icon: {fileID: 2800000, guid: 0af77fec81ea0564a8600cf91b68e1d8, type: 3}
+    type: 102
+    parameter:
+      name: Facial_Expressions2
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Akame
+    icon: {fileID: 2800000, guid: ab8dbefb873082c4a87cf2f5e12ee4b0, type: 3}
+    type: 102
+    parameter:
+      name: Facial_Expressions2
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Akanbe
+    icon: {fileID: 2800000, guid: 0a28184bdfd3679419580f5dc7718991, type: 3}
+    type: 102
+    parameter:
+      name: Facial_Expressions2
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Akanbe2
+    icon: {fileID: 2800000, guid: c98d64023ddf54c408a3f43c8a76cc95, type: 3}
+    type: 102
+    parameter:
+      name: Facial_Expressions2
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
